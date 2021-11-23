@@ -19,4 +19,8 @@ public class Grade {
     public void setMarks(int marks) {
         this.marks = marks;
     }
+
+    public void addGrade(){}
+    public void add2Grade(){}
+
 }

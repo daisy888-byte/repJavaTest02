@@ -28,4 +28,7 @@ public class Teacher {
     public void setProfessional(String professional) {
         this.professional = professional;
     }
+
+    public void addTeacher(){}
+    public void add2Teacher(){}
 }
