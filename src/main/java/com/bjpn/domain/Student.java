@@ -29,4 +29,6 @@ public class Student {
         this.age = age;
     }
     public void delStudent(){}
+    public void addStudent(){}
+
 }
