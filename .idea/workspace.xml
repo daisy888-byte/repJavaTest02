@@ -22,8 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9e02397-c95a-42fe-b9a3-44de0d203c6a" name="Default Changelist" comment="add two class :Teacher,Grade.">
+    <list default="true" id="a9e02397-c95a-42fe-b9a3-44de0d203c6a" name="Default Changelist" comment="add 2 func ,addStudent,addSchool">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bjpn/domain/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bjpn/domain/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bjpn/domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bjpn/domain/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637652679908</updated>
-      <workItem from="1637652681033" duration="1324000" />
+      <workItem from="1637652681033" duration="2582000" />
     </task>
     <task id="LOCAL-00001" summary="add two class :Teacher,Grade.">
       <created>1637653376860</created>
@@ -94,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637653376860</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add 2 func ,addStudent,addSchool">
+      <created>1637655247297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637655247297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,16 +122,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add two class :Teacher,Grade." />
-    <option name="LAST_COMMIT_MESSAGE" value="add two class :Teacher,Grade." />
+    <MESSAGE value="add 2 func ,addStudent,addSchool" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 2 func ,addStudent,addSchool" />
   </component>
   <component name="WindowStateProjectService">
     <state x="912" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1637653261251">
       <screen x="0" y="25" width="1680" height="978" />
     </state>
     <state x="912" y="239" key="#com.intellij.ide.util.MemberChooser/0.25.1680.978@0.25.1680.978" timestamp="1637653261251" />
-    <state x="438" y="286" key="Vcs.Push.Dialog.v2" timestamp="1637653406572">
+    <state x="438" y="286" key="Vcs.Push.Dialog.v2" timestamp="1637655307776">
       <screen x="0" y="25" width="1680" height="978" />
     </state>
-    <state x="438" y="286" key="Vcs.Push.Dialog.v2/0.25.1680.978@0.25.1680.978" timestamp="1637653406572" />
+    <state x="438" y="286" key="Vcs.Push.Dialog.v2/0.25.1680.978@0.25.1680.978" timestamp="1637655307776" />
+    <state x="734" y="492" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637654985332">
+      <screen x="0" y="25" width="1680" height="978" />
+    </state>
+    <state x="734" y="492" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.978@0.25.1680.978" timestamp="1637654985332" />
   </component>
 </project>

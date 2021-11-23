@@ -29,5 +29,7 @@ public class Student {
         this.age = age;
     }
     public void addStudent(){}
+    public int sucStudent(){return 0;}
+    public int  suc2Student(){return 0;}
 
 }
