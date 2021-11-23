@@ -30,5 +30,7 @@ public class Student {
     }
     public void delStudent(){}
     public void addStudent(){}
+    public void sucStudent(){}
+    public void suc2Student(){}
 
 }

@@ -21,4 +21,7 @@ public class School {
     }
 
     public  void addSchool(){}
+
+    public void sucSchool(){}
+    public void suc2School(){}
 }
