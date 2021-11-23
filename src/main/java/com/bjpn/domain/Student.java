@@ -28,5 +28,6 @@ public class Student {
     public void setAge(Integer age) {
         this.age = age;
     }
+    public void addStudent(){}
 
 }

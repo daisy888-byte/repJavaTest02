@@ -19,4 +19,6 @@ public class School {
     public void setSchAddr(String schAddr) {
         this.schAddr = schAddr;
     }
+
+    public  void addSchool(){}
 }
