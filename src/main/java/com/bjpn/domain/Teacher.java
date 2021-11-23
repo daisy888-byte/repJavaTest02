@@ -30,5 +30,7 @@ public class Teacher {
     }
 
     public void addTeacher(){}
-    public void add2Teacher(){}
+
+
+    public String add2Teacher(){return null;}
 }

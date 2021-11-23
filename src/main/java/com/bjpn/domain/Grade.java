@@ -21,6 +21,6 @@ public class Grade {
     }
 
     public void addGrade(){}
-    public void add2Grade(){}
 
+    public String add2Grade(){return null;}
 }
