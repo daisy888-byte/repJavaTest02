@@ -20,6 +20,10 @@ public class School {
         this.schAddr = schAddr;
     }
 
-    public int sucSchool(){return 0;}
+
     public int  suc2School(){return 0;}
+    public  void addSchool(){}
+
+    public void sucSchool(){}
+
 }

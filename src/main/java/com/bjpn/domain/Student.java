@@ -28,8 +28,11 @@ public class Student {
     public void setAge(Integer age) {
         this.age = age;
     }
+    public void delStudent(){}
     public void addStudent(){}
-    public int sucStudent(){return 0;}
+
     public int  suc2Student(){return 0;}
+    public void sucStudent(){}
+
 
 }
